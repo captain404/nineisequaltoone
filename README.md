@@ -1,2 +1,1 @@
-# Hi
-<img src="https://github.com/nineisequaltoone/nineisequaltoone/blob/main/Readme.gif" width="200" height="100"/>
+<p align="center"><img src="https://github.com/nineisequaltoone/nineisequaltoone/blob/main/Readme.gif" width="600" height="300"/></p>
