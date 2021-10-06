@@ -11,13 +11,10 @@
 
 # Known Shits ♦️
 
--Nothing
-
--noThing
-
--nothiNG
-
--nOTHINg
+* Nothing
+* noThing
+* nothiNG
+* nOTHINg
 
 ### *Wanna know more* 👻
 
