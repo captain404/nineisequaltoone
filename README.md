@@ -23,14 +23,9 @@
 - **CI/CD**: Docker, GitHub Actions
 
 ## 🔭 Current Focus
-- Working on 
+- Working on Creating an AI-powered media analyzer that automates image/video tagging.
 - Exploring Data Science and Machine Learning
 - Improving my skills in Python and Databases
-
-## 🌱 Recent Projects
-1. **[Project Name]** - Short description with [Demo](link) | [Code](link)
-2. **[Project Name]** - Short description with [Demo](link) | [Code](link)
-3. **[Project Name]** - Short description with [Demo](link) | [Code](link)
 
 ## 📫 Let's Connect
 - LinkedIn: Anindya Chatterjee(https://www.linkedin.com/in/anindya-chatterjee-378b69358/)
