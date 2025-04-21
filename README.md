@@ -1,21 +1,56 @@
-|[![](https://github-readme-stats.vercel.app/api?username=nineisequaltoone)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://github.com/nineisequaltoone/nineisequaltoone/blob/main/Readme.gif" width="300" height="200"/>|
-|--|--|
+# 👋 Hello, I'm [Your Name]!
 
-## Hi there 😃
+[![GitHub followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([YourLinkedInURL])
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]([YourTwitterURL])
 
-<p align="center">
-  I'm Anindya
-</p>
+**Data Scientist | Machine Learning Engineer | AI Enthusiast**
 
-### Meghnad Saha Institute of Technology
+## 🛠️ Technical Skills
 
-# Known Shits ♦️
+### 💻 Programming & Data
+- **Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, SciPy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Database**: PostgreSQL, MySQL
 
-* Nothing
-* noThing
-* nothiNG
-* nOTHINg
+### 🤖 Machine Learning & AI
+- **ML Frameworks**: TensorFlow, Scikit-learn
+- **Deep Learning**: CNNs, Transformers
+- **Generative AI**: LLMs, Diffusion Models
+- **Model Deployment**: Flask, FastAPI
 
-### *Wanna know more* 👻
+### 🧰 Tools & Platforms
+- **Version Control**: Git, GitHub
+- **Cloud**: AWS, GCP (basic)
+- **CI/CD**: Docker, GitHub Actions
 
-[Don't click<img src="https://media2.giphy.com/media/W36p35O4jVyAvlU8TN/giphy.gif?cid=ecf05e4738cx6o61dvhitevkbn61nwwbwu9woet23proc97y&rid=giphy.gif&ct=g" width="50" hight="50"/>on this](http://papertoilet.com/)
+## 🔭 Current Focus
+- Working on [brief description of current project]
+- Exploring [specific GenAI/ML area you're interested in]
+- Improving my skills in [specific technology you're learning]
+
+## 🌱 Recent Projects
+1. **[Project Name]** - Short description with [Demo](link) | [Code](link)
+2. **[Project Name]** - Short description with [Demo](link) | [Code](link)
+3. **[Project Name]** - Short description with [Demo](link) | [Code](link)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn Profile]([URL])
+- Email: [your.email@example.com]
+- Portfolio: [Your Portfolio Website]([URL])
+- Twitter: [@YourHandle]([URL])
+
+## 🎯 Goals for 2024
+- [ ] Contribute to open source projects
+- [ ] Publish a technical blog post
+- [ ] Complete [certification name]
+- [ ] Build [specific project idea]
+
+---
+
+⭐️ From [YourUsername](https://github.com/[YourUsername])
