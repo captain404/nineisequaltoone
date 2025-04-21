@@ -1,8 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Anindya Chatterjee!
 
-[![GitHub followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([YourLinkedInURL])
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]([YourTwitterURL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anindya-chatterjee-378b69358/)
 
 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
 
@@ -10,25 +8,24 @@
 
 ### 💻 Programming & Data
 - **Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, SciPy
+- **Data Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Database**: PostgreSQL, MySQL
 
 ### 🤖 Machine Learning & AI
 - **ML Frameworks**: TensorFlow, Scikit-learn
 - **Deep Learning**: CNNs, Transformers
-- **Generative AI**: LLMs, Diffusion Models
-- **Model Deployment**: Flask, FastAPI
+- **Generative AI**: LLMs, Langchain, Gradio, Chroma
+- **Model Deployment**: Flask
 
 ### 🧰 Tools & Platforms
 - **Version Control**: Git, GitHub
-- **Cloud**: AWS, GCP (basic)
+- **Cloud**: AWS
 - **CI/CD**: Docker, GitHub Actions
 
 ## 🔭 Current Focus
-- Working on [brief description of current project]
-- Exploring [specific GenAI/ML area you're interested in]
-- Improving my skills in [specific technology you're learning]
+- Working on 
+- Exploring Data Science and Machine Learning
+- Improving my skills in Python and Databases
 
 ## 🌱 Recent Projects
 1. **[Project Name]** - Short description with [Demo](link) | [Code](link)
@@ -40,17 +37,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile]([URL])
-- Email: [your.email@example.com]
-- Portfolio: [Your Portfolio Website]([URL])
-- Twitter: [@YourHandle]([URL])
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anindya-chatterjee-378b69358/)
+- Email: anindyachatterjee.nvxpe@slmail.me
 
-## 🎯 Goals for 2024
+## 🎯 Goals
 - [ ] Contribute to open source projects
-- [ ] Publish a technical blog post
-- [ ] Complete [certification name]
-- [ ] Build [specific project idea]
+- [ ] Complete IBM Data Science, IBM Machine Learning, Azure fundamentals certifications
+- [ ] Build a portfolio website
 
 ---
 
-⭐️ From [YourUsername](https://github.com/[YourUsername])
+⭐️ From Anindya Chatterjee(https://github.com/captain404)
