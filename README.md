@@ -32,12 +32,8 @@
 2. **[Project Name]** - Short description with [Demo](link) | [Code](link)
 3. **[Project Name]** - Short description with [Demo](link) | [Code](link)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anindya-chatterjee-378b69358/)
+- LinkedIn: Anindya Chatterjee(https://www.linkedin.com/in/anindya-chatterjee-378b69358/)
 - Email: anindyachatterjee.nvxpe@slmail.me
 
 ## 🎯 Goals
@@ -47,4 +43,4 @@
 
 ---
 
-⭐️ From Anindya Chatterjee(https://github.com/captain404)
+⭐️ From captain404(https://github.com/captain404)
